@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://miaoduo.com/miaoduo.jpg" class="floatpic" width="360" height="480">
+<img src="https://miaoduo.com/file/miaoduo.jpg" class="floatpic" width="360" height="480">
 
 Here is **Duo Miao ( 苗铎)**.
 
