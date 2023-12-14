@@ -8,7 +8,7 @@ layout: page
 
 Here is **Duo Miao (Lance, 苗铎)**.
 
-I am a master's graduate majoring in **Optical Engineering** at Jinan University. Currently, I work as a research assistant in the ULMNF-Lab at SUSTech, advised by [Prof. Shaolin Xu](https://www.researchgate). 
+I am a master's degree graduates majoring in **Optical Engineering** at Jinan University.During my time in Jinan University, I studied under [Prof. Xuanming Duan](https://ipt.jnu.edu.cn/2019/0716/c16173a366282/page.psp) and carried out scientific research in the nano lithography laboratory. Currently, I work as a research assistant in the ULMNF-Lab at SUSTech, advised by [Prof. Shaolin Xu](https://www.researchgate). 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *miaoduo0507@163.com*
 
