@@ -35,7 +35,7 @@ I previously enjoyed long-distance running, [vlog making](https://space.bilibili
 
 ## My Cat
 
-This is my love. Her name is Qbo (Q宝).
+This is my love. Her name is Wangzai （旺仔）.
 
 <div>
 <img src="/images/cat.JPG">
