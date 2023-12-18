@@ -17,7 +17,7 @@ title: Publications
 ## invention  patent
 
 - [Yuan-Yuan Zhao，Duo Miao，Xuan-Ming Duan,A Dot Matrix Projector Device and Its Preparation 
-Method.Patent number：202310548259.9](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-11-3087)
+Method.Patent number：202310548259.9]
 
 ---
 
