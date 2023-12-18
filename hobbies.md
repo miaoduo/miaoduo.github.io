@@ -9,15 +9,14 @@ title: Hobbies
 ## Tennis
 
 
-<img src="/images/tennis court after rain.JPG">
+<img src="/images/tennis.JPG">
 </div>
 <br>Sports can exercise my body and mind and make me think more clearly
 
 
 ## Electronic piano
 
-<img src="/images/electronic piano.JPG">
-
+<img src="/images/piano.JPG">
 </div>
 <br>Music can relax my mind and bring me inspiration
 
