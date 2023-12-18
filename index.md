@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://miaoduo.com/file/miaoduo.jpg"
+<img src="file/miaoduo.jpg"
 
 Here is **Duo Miao ( 苗铎)**.
 
