@@ -15,7 +15,7 @@ title: Hobbies
 <br>Sports can exercise my body and mind and make me think more clearly
 
 
-## Electronic piano
+## Electronic Piano
 
 </div>
 <img src="/images/piano.JPG">
