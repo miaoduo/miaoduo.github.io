@@ -16,8 +16,8 @@ title: Publications
   
 ## invention  patent
 
-- [Yuan-Yuan Zhao，Duo Miao，Xuan-Ming Duan,A Dot Matrix Projector Device and Its Preparation 
-Method.Patent number：202310548259.9]
+- Yuan-Yuan Zhao，Duo Miao，Xuan-Ming Duan,A Dot Matrix Projector Device and Its Preparation 
+Method.Patent number：202310548259.9
 
 ---
 
